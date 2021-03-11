@@ -1,0 +1,30 @@
+{
+  "name": "vue-demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "core-js": "^3.6.4",
+    "firebase": "^7.10.0",
+    "v-calendar": "^1.0.0-beta.23",
+    "vue": "^2.6.11",
+    "vue-linkify": "^1.0.1",
+    "vue-router": "^3.1.6",
+    "vue-single-date-picker": "^0.4.6",
+    "vue-sweetalert2": "^3.0.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.2.0",
+    "@vue/cli-service": "~4.2.0",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
